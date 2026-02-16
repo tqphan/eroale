@@ -1,0 +1,1006 @@
+{
+  "columns": 38,
+  "rows": 6,
+  "items": [
+    {
+      "name": "Esc",
+      "description": "Escape",
+      "color": "#34495e",
+      "icon": "",
+      "row": 0,
+      "column": 0,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "F1",
+      "description": "Function 1",
+      "color": "#2c3e50",
+      "icon": "",
+      "row": 0,
+      "column": 2,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "F2",
+      "description": "Function 2",
+      "color": "#2c3e50",
+      "icon": "",
+      "row": 0,
+      "column": 4,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "F3",
+      "description": "Function 3",
+      "color": "#2c3e50",
+      "icon": "",
+      "row": 0,
+      "column": 6,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "F4",
+      "description": "Function 4",
+      "color": "#2c3e50",
+      "icon": "",
+      "row": 0,
+      "column": 8,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "F5",
+      "description": "Function 5",
+      "color": "#2c3e50",
+      "icon": "",
+      "row": 0,
+      "column": 10,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "F6",
+      "description": "Function 6",
+      "color": "#2c3e50",
+      "icon": "",
+      "row": 0,
+      "column": 12,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "F7",
+      "description": "Function 7",
+      "color": "#2c3e50",
+      "icon": "",
+      "row": 0,
+      "column": 14,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "F8",
+      "description": "Function 8",
+      "color": "#2c3e50",
+      "icon": "",
+      "row": 0,
+      "column": 16,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "F9",
+      "description": "Function 9",
+      "color": "#2c3e50",
+      "icon": "",
+      "row": 0,
+      "column": 18,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "F10",
+      "description": "Function 10",
+      "color": "#2c3e50",
+      "icon": "",
+      "row": 0,
+      "column": 20,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "F11",
+      "description": "Function 11",
+      "color": "#2c3e50",
+      "icon": "",
+      "row": 0,
+      "column": 22,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "F12",
+      "description": "Function 12",
+      "color": "#2c3e50",
+      "icon": "",
+      "row": 0,
+      "column": 24,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "PrtSc",
+      "description": "Print Screen",
+      "color": "#7f8c8d",
+      "icon": "🖨",
+      "row": 0,
+      "column": 26,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "Del",
+      "description": "Delete",
+      "color": "#7f8c8d",
+      "icon": "⤓",
+      "row": 0,
+      "column": 28,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "PgUp",
+      "description": "Page Up",
+      "color": "#7f8c8d",
+      "icon": "⏸",
+      "row": 0,
+      "column": 30,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "PgDn",
+      "description": "Page Down",
+      "color": "#95a5a6",
+      "icon": "",
+      "row": 0,
+      "column": 32,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "Home",
+      "description": "Home",
+      "color": "#95a5a6",
+      "icon": "⇱",
+      "row": 0,
+      "column": 34,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "End",
+      "description": "End",
+      "color": "#95a5a6",
+      "icon": "⇞",
+      "row": 0,
+      "column": 36,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "`",
+      "description": "Backtick/Tilde",
+      "color": "#3498db",
+      "icon": "~",
+      "row": 1,
+      "column": 0,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "1",
+      "description": "Number 1",
+      "color": "#3498db",
+      "icon": "!",
+      "row": 1,
+      "column": 2,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "2",
+      "description": "Number 2",
+      "color": "#3498db",
+      "icon": "@",
+      "row": 1,
+      "column": 4,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "3",
+      "description": "Number 3",
+      "color": "#3498db",
+      "icon": "#",
+      "row": 1,
+      "column": 6,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "4",
+      "description": "Number 4",
+      "color": "#3498db",
+      "icon": "$",
+      "row": 1,
+      "column": 8,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "5",
+      "description": "Number 5",
+      "color": "#3498db",
+      "icon": "%",
+      "row": 1,
+      "column": 10,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "6",
+      "description": "Number 6",
+      "color": "#3498db",
+      "icon": "^",
+      "row": 1,
+      "column": 12,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "7",
+      "description": "Number 7",
+      "color": "#3498db",
+      "icon": "&",
+      "row": 1,
+      "column": 14,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "8",
+      "description": "Number 8",
+      "color": "#3498db",
+      "icon": "*",
+      "row": 1,
+      "column": 16,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "9",
+      "description": "Number 9",
+      "color": "#3498db",
+      "icon": "(",
+      "row": 1,
+      "column": 18,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "0",
+      "description": "Number 0",
+      "color": "#3498db",
+      "icon": ")",
+      "row": 1,
+      "column": 20,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "-",
+      "description": "Minus/Underscore",
+      "color": "#3498db",
+      "icon": "_",
+      "row": 1,
+      "column": 22,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "=",
+      "description": "Equals/Plus",
+      "color": "#3498db",
+      "icon": "+",
+      "row": 1,
+      "column": 24,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "Backspace",
+      "description": "Backspace",
+      "color": "#e74c3c",
+      "icon": "⌫",
+      "row": 1,
+      "column": 26,
+      "rowSpan": 1,
+      "columnSpan": 4
+    },
+    {
+      "name": "NmLk",
+      "description": "Num Lock",
+      "color": "#95a5a6",
+      "icon": "⌦",
+      "row": 1,
+      "column": 30,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "//",
+      "description": "NumPad //",
+      "color": "#95a5a6",
+      "icon": "⇲",
+      "row": 1,
+      "column": 32,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "*",
+      "description": "NumPad *",
+      "color": "#95a5a6",
+      "icon": "⇟",
+      "row": 1,
+      "column": 34,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "-",
+      "description": "NumPad -",
+      "color": "#95a5a6",
+      "icon": "⇟",
+      "row": 1,
+      "column": 36,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "Tab",
+      "description": "Tab",
+      "color": "#9b59b6",
+      "icon": "⇥",
+      "row": 2,
+      "column": 0,
+      "rowSpan": 1,
+      "columnSpan": 3
+    },
+    {
+      "name": "Q",
+      "description": "Letter Q",
+      "color": "#3498db",
+      "icon": "",
+      "row": 2,
+      "column": 3,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "W",
+      "description": "Letter W",
+      "color": "#3498db",
+      "icon": "",
+      "row": 2,
+      "column": 5,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "E",
+      "description": "Letter E",
+      "color": "#3498db",
+      "icon": "",
+      "row": 2,
+      "column": 7,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "R",
+      "description": "Letter R",
+      "color": "#3498db",
+      "icon": "",
+      "row": 2,
+      "column": 9,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "T",
+      "description": "Letter T",
+      "color": "#3498db",
+      "icon": "",
+      "row": 2,
+      "column": 11,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "Y",
+      "description": "Letter Y",
+      "color": "#3498db",
+      "icon": "",
+      "row": 2,
+      "column": 13,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "U",
+      "description": "Letter U",
+      "color": "#3498db",
+      "icon": "",
+      "row": 2,
+      "column": 15,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "I",
+      "description": "Letter I",
+      "color": "#3498db",
+      "icon": "",
+      "row": 2,
+      "column": 17,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "O",
+      "description": "Letter O",
+      "color": "#3498db",
+      "icon": "",
+      "row": 2,
+      "column": 19,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "P",
+      "description": "Letter P",
+      "color": "#3498db",
+      "icon": "",
+      "row": 2,
+      "column": 21,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "[",
+      "description": "Left Bracket",
+      "color": "#3498db",
+      "icon": "{",
+      "row": 2,
+      "column": 23,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "]",
+      "description": "Right Bracket",
+      "color": "#3498db",
+      "icon": "}",
+      "row": 2,
+      "column": 25,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "\\",
+      "description": "Backslash/Pipe",
+      "color": "#3498db",
+      "icon": "|",
+      "row": 2,
+      "column": 27,
+      "rowSpan": 1,
+      "columnSpan": 3
+    },
+    {
+      "name": "7",
+      "description": "Numpad 7",
+      "color": "#16a085",
+      "icon": "⌂",
+      "row": 2,
+      "column": 30,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "8",
+      "description": "Numpad 8",
+      "color": "#16a085",
+      "icon": "↑",
+      "row": 2,
+      "column": 32,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "9",
+      "description": "Numpad 9",
+      "color": "#16a085",
+      "icon": "⇞",
+      "row": 2,
+      "column": 34,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "+",
+      "description": "Numpad +",
+      "color": "#16a085",
+      "icon": "⇞",
+      "row": 2,
+      "column": 36,
+      "rowSpan": 2,
+      "columnSpan": 2
+    },
+    {
+      "name": "Caps",
+      "description": "Caps Lock",
+      "color": "#e67e22",
+      "icon": "⇪",
+      "row": 3,
+      "column": 0,
+      "rowSpan": 1,
+      "columnSpan": 4
+    },
+    {
+      "name": "A",
+      "description": "Letter A",
+      "color": "#3498db",
+      "icon": "",
+      "row": 3,
+      "column": 4,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "S",
+      "description": "Letter S",
+      "color": "#3498db",
+      "icon": "",
+      "row": 3,
+      "column": 6,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "D",
+      "description": "Letter D",
+      "color": "#3498db",
+      "icon": "",
+      "row": 3,
+      "column": 8,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "F",
+      "description": "Letter F",
+      "color": "#3498db",
+      "icon": "",
+      "row": 3,
+      "column": 10,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "G",
+      "description": "Letter G",
+      "color": "#3498db",
+      "icon": "",
+      "row": 3,
+      "column": 12,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "H",
+      "description": "Letter H",
+      "color": "#3498db",
+      "icon": "",
+      "row": 3,
+      "column": 14,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "J",
+      "description": "Letter J",
+      "color": "#3498db",
+      "icon": "",
+      "row": 3,
+      "column": 16,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "K",
+      "description": "Letter K",
+      "color": "#3498db",
+      "icon": "",
+      "row": 3,
+      "column": 18,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "L",
+      "description": "Letter L",
+      "color": "#3498db",
+      "icon": "",
+      "row": 3,
+      "column": 20,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": ";",
+      "description": "Semicolon/Colon",
+      "color": "#3498db",
+      "icon": ":",
+      "row": 3,
+      "column": 22,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "'",
+      "description": "Quote/Double Quote",
+      "color": "#3498db",
+      "icon": "\"",
+      "row": 3,
+      "column": 24,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "Enter",
+      "description": "Enter/Return",
+      "color": "#27ae60",
+      "icon": "⏎",
+      "row": 3,
+      "column": 26,
+      "rowSpan": 1,
+      "columnSpan": 4
+    },
+    {
+      "name": "4",
+      "description": "Numpad 4",
+      "color": "#16a085",
+      "icon": "←",
+      "row": 3,
+      "column": 30,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "5",
+      "description": "Numpad 5",
+      "color": "#16a085",
+      "icon": "",
+      "row": 3,
+      "column": 32,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "6",
+      "description": "Numpad 6",
+      "color": "#16a085",
+      "icon": "→",
+      "row": 3,
+      "column": 34,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "Shift",
+      "description": "Left Shift",
+      "color": "#c0392b",
+      "icon": "⇧",
+      "row": 4,
+      "column": 0,
+      "rowSpan": 1,
+      "columnSpan": 5
+    },
+    {
+      "name": "Z",
+      "description": "Letter Z",
+      "color": "#3498db",
+      "icon": "",
+      "row": 4,
+      "column": 5,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "X",
+      "description": "Letter X",
+      "color": "#3498db",
+      "icon": "",
+      "row": 4,
+      "column": 7,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "C",
+      "description": "Letter C",
+      "color": "#3498db",
+      "icon": "",
+      "row": 4,
+      "column": 9,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "V",
+      "description": "Letter V",
+      "color": "#3498db",
+      "icon": "",
+      "row": 4,
+      "column": 11,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "B",
+      "description": "Letter B",
+      "color": "#3498db",
+      "icon": "",
+      "row": 4,
+      "column": 13,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "N",
+      "description": "Letter N",
+      "color": "#3498db",
+      "icon": "",
+      "row": 4,
+      "column": 15,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "M",
+      "description": "Letter M",
+      "color": "#3498db",
+      "icon": "",
+      "row": 4,
+      "column": 17,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": ",",
+      "description": "Comma/Less Than",
+      "color": "#3498db",
+      "icon": "<",
+      "row": 4,
+      "column": 19,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": ".",
+      "description": "Period/Greater Than",
+      "color": "#3498db",
+      "icon": ">",
+      "row": 4,
+      "column": 21,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "/",
+      "description": "Slash/Question Mark",
+      "color": "#3498db",
+      "icon": "?",
+      "row": 4,
+      "column": 23,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "Shift",
+      "description": "Right Shift",
+      "color": "#c0392b",
+      "icon": "⇧",
+      "row": 4,
+      "column": 25,
+      "rowSpan": 1,
+      "columnSpan": 3
+    },
+    {
+      "name": "↑",
+      "description": "Arrow Up",
+      "color": "#95a5a6",
+      "icon": "↑",
+      "row": 4,
+      "column": 28,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "1",
+      "description": "Numpad 1",
+      "color": "#16a085",
+      "icon": "⇲",
+      "row": 4,
+      "column": 30,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "2",
+      "description": "Numpad 2",
+      "color": "#16a085",
+      "icon": "↓",
+      "row": 4,
+      "column": 32,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "3",
+      "description": "Numpad 3",
+      "color": "#16a085",
+      "icon": "⇟",
+      "row": 4,
+      "column": 34,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "Ent",
+      "description": "Numpad Enter",
+      "color": "#16a085",
+      "icon": "⇟",
+      "row": 4,
+      "column": 36,
+      "rowSpan": 2,
+      "columnSpan": 2
+    },
+    {
+      "name": "Ctrl",
+      "description": "Left Control",
+      "color": "#8e44ad",
+      "icon": "⌃",
+      "row": 5,
+      "column": 0,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "Meta",
+      "description": "Left Meta",
+      "color": "#8e44ad",
+      "icon": "⊞",
+      "row": 5,
+      "column": 2,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "Alt",
+      "description": "Left Alt",
+      "color": "#8e44ad",
+      "icon": "⎇",
+      "row": 5,
+      "column": 4,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "Space",
+      "description": "Spacebar",
+      "color": "#2c3e50",
+      "icon": "␣",
+      "row": 5,
+      "column": 6,
+      "rowSpan": 1,
+      "columnSpan": 14
+    },
+    {
+      "name": "Alt",
+      "description": "Right Alt",
+      "color": "#8e44ad",
+      "icon": "⎇",
+      "row": 5,
+      "column": 20,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "Meta",
+      "description": "Right Meta",
+      "color": "#8e44ad",
+      "icon": "",
+      "row": 5,
+      "column": 22,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "Ctrl",
+      "description": "Right Control",
+      "color": "#8e44ad",
+      "icon": "⌃",
+      "row": 5,
+      "column": 24,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "←",
+      "description": "Arrow Left",
+      "color": "#95a5a6",
+      "icon": "←",
+      "row": 5,
+      "column": 26,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "↓",
+      "description": "Arrow Down",
+      "color": "#95a5a6",
+      "icon": "↓",
+      "row": 5,
+      "column": 28,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "→",
+      "description": "Arrow Right",
+      "color": "#95a5a6",
+      "icon": "→",
+      "row": 5,
+      "column": 30,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": "0",
+      "description": "Numpad 0",
+      "color": "#16a085",
+      "icon": "Ins",
+      "row": 5,
+      "column": 32,
+      "rowSpan": 1,
+      "columnSpan": 2
+    },
+    {
+      "name": ".",
+      "description": "Numpad Decimal",
+      "color": "#16a085",
+      "icon": "Del",
+      "row": 5,
+      "column": 34,
+      "rowSpan": 1,
+      "columnSpan": 2
+    }
+  ]
+}
