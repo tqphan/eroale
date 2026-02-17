@@ -105,7 +105,7 @@ class KeyboardData(QObject):
     @Slot(str)
     def loadJson(self, filepath):
         try:
-            with open(filepath, 'r') as f:
+            with open(filepath, 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 self._columns = data.get("columns", 0)
                 self._rows = data.get("rows", 0)
