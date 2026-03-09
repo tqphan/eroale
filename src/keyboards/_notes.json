@@ -1,0 +1,31 @@
+{
+    "dwell": {
+        "starting_delay_ms": 1000,
+        "starting_actions": [
+            {
+                "action": "move",
+                "args": {
+                    "x": 10,
+                    "y": 20
+                }
+            },
+            {
+                "action": "rotate",
+                "args": {
+                    "angle": 90
+                }
+            }
+        ],
+        "repeating_delay_ms": 500,
+        "repeating_frequency_ms": 100,
+        "repeating_actions": [
+            "key_down",
+            "key_up"
+        ],
+        "stopping_delay_ms": 1000,
+        "stopping_actions": [
+            "key_down",
+            "key_up"
+        ]
+    }
+}

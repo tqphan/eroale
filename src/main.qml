@@ -1,20 +1,31 @@
 import QtQuick
 import QtQuick.Controls
 import QtQuick.Layouts
+import QtQuick.Window
 
 ApplicationWindow {
     id: root
     visible: true
-    width: 1400
-    height: 600
+    flags: Qt.Window | Qt.WindowStaysOnTopHint | Qt.FramelessWindowHint | Qt.WindowDoesNotAcceptFocus
+    // Determine window width/height: treat values <= 1 as fraction of Screen,
+    // values > 1 as absolute pixels, otherwise fall back to fixed values.
+    property real winWidth: (keyboardData.width > 0 && keyboardData.width <= 1) ? keyboardData.width * Screen.width : (keyboardData.width > 1 ? keyboardData.width : 1400)
+    property real winHeight: (keyboardData.height > 0 && keyboardData.height <= 1) ? keyboardData.height * Screen.height : (keyboardData.height > 1 ? keyboardData.height : 600)
+
+    width: winWidth
+    height: winHeight
     title: "Keyboard Layout - 95% Keyboard"
     
     color: "#1e1e1e"
+
+    // Positioning: support dock values: "top", "bottom", "left", "right".
+    x: keyboardData.dock === "left" ? 0 : (keyboardData.dock === "right" ? (Screen.width - width) : (Screen.width - width) / 2)
+    y: keyboardData.dock === "top" ? 0 : (keyboardData.dock === "bottom" ? (Screen.height - height) : (Screen.height - height) / 2)
     
     GridLayout {
         id: gridLayout
         anchors.fill: parent
-        anchors.margins: 10
+        anchors.margins: 2
         
         columns: keyboardData.columns
         rows: keyboardData.rows

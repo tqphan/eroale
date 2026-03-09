@@ -1,0 +1,519 @@
+{
+  "width": 1.0,
+  "height": 0.46,
+  "dock": "bottom",
+  "rows": 4,
+  "columns": 14,
+  "items": [
+    {
+      "name": "P0",
+      "description": "load alphabet keyboard top",
+      "color": "#34495e",
+      "icon": "UpArrowKeyIcon",
+      "command": "load_keyboard",
+      "args": [
+        "keyboard-alphabet-14x4-top.json"
+      ]
+    },
+    {
+      "name": "P0",
+      "description": "load function keyboard",
+      "color": "#34495e",
+      "icon": "PhysicalKeysIcon",
+      "command": "load_keyboard",
+      "args": [
+        "keyboard-function-14x4-bottom.json"
+      ]
+    },
+    {
+      "name": "",
+      "description": "clear text predictions",
+      "color": "#34495e",
+      "icon": "EraserIcon",
+      "command": "clear_predictions",
+      "args": []
+    },
+    {
+      "name": "P0",
+      "description": "Prediction 0",
+      "color": "#34495e",
+      "icon": "",
+      "columnSpan": 2
+    },
+    {
+      "name": "P1",
+      "description": "Prediction 1",
+      "color": "#34495e",
+      "icon": "",
+      "columnSpan": 2
+    },
+    {
+      "name": "P2",
+      "description": " Prediction 2",
+      "color": "#34495e",
+      "icon": "",
+      "columnSpan": 2
+    },
+    {
+      "name": "P3",
+      "description": "Prediction 3",
+      "color": "#34495e",
+      "icon": "",
+      "columnSpan": 2
+    },
+    {
+      "name": "",
+      "description": "Load Conversion Keyboard",
+      "color": "#34495e",
+      "icon": "ConversationIcon",
+      "command": "load_keyboard",
+      "args": [
+        "keyboard-conversation.json"
+      ]
+    },
+    {
+      "name": "",
+      "description": "Load Numeric Keyboard",
+      "color": "#34495e",
+      "icon": "NumericAndSymbolsIcon",
+      "command": "load_keyboard",
+      "args": [
+        "keyboard-numeric-14x4-bottom.json"
+      ]
+    },
+    {
+      "name": "",
+      "description": "Load Main Bottom Keyboard",
+      "color": "#34495e",
+      "icon": "NoIcon",
+      "command": "load_keyboard",
+      "args": [
+        "main-14x1-bottom.json"
+      ]
+    },
+    {
+      "name": "⇪",
+      "description": "Left Shift",
+      "color": "#34495e",
+      "icon": "ShiftKeyIcon",
+      "command": "perform_keyboard_action",
+      "args": [
+        "shift_l"
+      ],
+      "modifier": true
+    },
+    {
+      "name": "⇥",
+      "description": "Tab Key",
+      "color": "#34495e",
+      "icon": "TabKeyIcon",
+      "command": "perform_keyboard_action",
+      "args": [
+        "tab"
+      ]
+    },
+    {
+      "name": "Q",
+      "description": "Q Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "q"
+      ]
+    },
+    {
+      "name": "W",
+      "description": "W Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "w"
+      ]
+    },
+    {
+      "name": "E",
+      "description": "E Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "e"
+      ]
+    },
+    {
+      "name": "R",
+      "description": "R Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "r"
+      ]
+    },
+    {
+      "name": "T",
+      "description": "T Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "t"
+      ]
+    },
+    {
+      "name": "Y",
+      "description": "Y Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "y"
+      ]
+    },
+    {
+      "name": "U",
+      "description": "U Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "u"
+      ]
+    },
+    {
+      "name": "I",
+      "description": "I Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "i"
+      ]
+    },
+    {
+      "name": "O",
+      "description": "O Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "o"
+      ]
+    },
+    {
+      "name": "P",
+      "description": "P Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "p"
+      ]
+    },
+    {
+      "name": "",
+      "description": "Ápostrophe Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "'"
+      ]
+    },
+    {
+      "name": "🠘",
+      "description": "Backspace Key",
+      "color": "#34495e",
+      "icon": "BackspaceKeyIcon",
+      "command": "perform_keyboard_action",
+      "args": [
+        "backspace"
+      ]
+    },
+    {
+      "name": "Super",
+      "description": "Left Super Key",
+      "color": "#34495e",
+      "icon": "WinKeyIcon",
+      "command": "perform_keyboard_action",
+      "args": [
+        "cmd_l"
+      ],
+      "modifier": true
+    },
+    {
+      "name": ";",
+      "description": "Semicolon Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        ";"
+      ]
+    },
+    {
+      "name": "A",
+      "description": "A Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "a"
+      ]
+    },
+    {
+      "name": "S",
+      "description": "S Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "s"
+      ]
+    },
+    {
+      "name": "D",
+      "description": "D Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "d"
+      ]
+    },
+    {
+      "name": "F",
+      "description": "F Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "f"
+      ]
+    },
+    {
+      "name": "G",
+      "description": "G Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "g"
+      ]
+    },
+    {
+      "name": "H",
+      "description": "H Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "h"
+      ]
+    },
+    {
+      "name": "J",
+      "description": "J Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "j"
+      ]
+    },
+    {
+      "name": "K",
+      "description": "K Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "k"
+      ]
+    },
+    {
+      "name": "L",
+      "description": "L Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "l"
+      ]
+    },
+    {
+      "name": "[",
+      "description": "Left Bracket Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "["
+      ]
+    },
+    {
+      "name": "]",
+      "description": "Right Bracket Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "]"
+      ]
+    },
+    {
+      "name": "↵",
+      "description": "Enter Key",
+      "color": "#34495e",
+      "icon": "EnterIcon",
+      "command": "perform_keyboard_action",
+      "args": [
+        "enter"
+      ]
+    },
+    {
+      "name": "⌘",
+      "description": "Left Control Key",
+      "color": "#34495e",
+      "icon": "CtrlKeyIcon",
+      "command": "perform_keyboard_action",
+      "args": [
+        "ctrl_l"
+      ],
+      "modifier": true
+    },
+    {
+      "name": "⌥",
+      "description": "Left Alt Key",
+      "color": "#34495e",
+      "icon": "AltKeyIcon",
+      "command": "perform_keyboard_action",
+      "args": [
+        "alt_l"
+      ],
+      "modifier": true
+    },
+    {
+      "name": "⎵",
+      "description": "Space Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "space"
+      ]
+    },
+    {
+      "name": "Z",
+      "description": "Z Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "z"
+      ]
+    },
+    {
+      "name": "X",
+      "description": "X Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "x"
+      ]
+    },
+    {
+      "name": "C",
+      "description": "C Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "c"
+      ]
+    },
+    {
+      "name": "V",
+      "description": "V Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "v"
+      ]
+    },
+    {
+      "name": "B",
+      "description": "B Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "b"
+      ]
+    },
+    {
+      "name": "N",
+      "description": "N Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "n"
+      ]
+    },
+    {
+      "name": "M",
+      "description": "M Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "m"
+      ]
+    },
+    {
+      "name": ".",
+      "description": "Period Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "."
+      ]
+    },
+    {
+      "name": ",",
+      "description": "Comma Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        ","
+      ]
+    },
+    {
+      "name": "-",
+      "description": "Minus Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "-"
+      ]
+    },
+    {
+      "name": "/",
+      "description": "Forward Slash Key",
+      "color": "#34495e",
+      "icon": "",
+      "command": "perform_keyboard_action",
+      "args": [
+        "/"
+      ]
+    }
+  ]
+}

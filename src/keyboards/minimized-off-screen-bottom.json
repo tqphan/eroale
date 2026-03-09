@@ -1,0 +1,19 @@
+{
+  "width": 0.25,
+  "height": 0.25,
+  "offsetX": 0.0,
+  "offsetY": 0.24,
+  "dock": "bottom",
+  "rows": 4,
+  "columns": 14,
+  "items": [
+    {
+      "name": "",
+      "description": "",
+      "color": "#34495e",
+      "icon": "MinimiseIcon",
+      "command": "load_previous_keyboard",
+      "args": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "dwell": {
+        "starting_delay_ms": 420,
+        "starting_actions": [
+            {
+                "service": "factory",
+                "action": "load_keyboard_file",
+                "args": { "path": "q" }
+            }
+        ]
+    }
+}

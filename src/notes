@@ -1,0 +1,27 @@
+actions:
+    key_press
+    key_release
+    mouse_press
+    mouse_release
+
+ma(x,y)
+md(x,y)
+mp(b)
+mr(b)
+
+kp
+kr
+ks
+
+jx
+jy
+jz
+
+dwell_enter_delay_ms
+dwell_starting_delay_ms
+dwell_starting_actions
+dwell_repeating_delay_ms
+dwell_repeating_actions
+dwell_exit_delay_ms
+dwell_stopping_delay_ms
+dwell_stopping_actions
