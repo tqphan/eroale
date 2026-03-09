@@ -1,0 +1,3 @@
+[submodule "lib/pynput"]
+	path = lib/pynput
+	url = https://github.com/tqphan/pynput.git
